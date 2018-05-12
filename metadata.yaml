@@ -1,0 +1,28 @@
+_repo: The-Exiles-of-Faloo_44718
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44718-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pain, Barry
+    alias: Pain, Barry Eric Odell
+    birthdate: 1864
+    deathdate: 1928
+    gutenberg_agent_id: '26030'
+    url: http://www.gutenberg.org/2009/agents/26030
+    wikipedia: http://en.wikipedia.org/wiki/Barry_Pain
+description: ''
+gutenberg_issued: '2014-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands of the Pacific -- Fiction'
+- !lcc 'PR'
+title: The Exiles of Faloo
+url: http://www.gutenberg.org/ebooks/44718
